@@ -4,6 +4,7 @@ Responsive onboarding email template for Axion with images and buttons.
 
 A responsive HTML email template for Axion's onboarding campaign. This email features a branded header, banner, welcome message, primary call-to-action button, three feature options, and a footer with social media buttons.
 
+Deployed at 👉  https://onboardingemail.netlify.app/
 ## Features
 
 - Fully responsive design optimized for desktop and mobile email clients
